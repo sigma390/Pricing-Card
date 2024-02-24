@@ -1,4 +1,4 @@
-# Webpack & Tailwind Starter
+# Project Setup tutorial
 
 Build apps with Webpack and use Tailwind CSS
 
